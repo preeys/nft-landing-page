@@ -1,6 +1,6 @@
 // METAMASK CONNECTION
 const TIMEOUT = 1000;
-const COLLECTION_NAME = 'mad-dog-s-pet-s';
+const COLLECTION_NAME = 'MadDogs';
 let editions = [];
 let dots = 1;
 
